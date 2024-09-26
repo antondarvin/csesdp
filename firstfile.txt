@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <h1>This is github</h1>
-  </head>
-</html>
+Name    : Anton Darvin J
+Dept    : CSE 'A'
+college : RMK Engineering College
+"Be Smart and Work Effectively"
